@@ -15,7 +15,8 @@
     "@ant-design/pro-components": "^2.4.4",
     "@umijs/max": "^4.3.34",
     "antd": "^5.4.0",
-    "monaco-editor": "^0.52.0"
+    "valtio": "^2.1.2",
+    "valtio-history": "^0.2.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.33",

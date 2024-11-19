@@ -31,5 +31,6 @@ export default defineConfig({
     },
   ],
   npmClient: 'npm',
-  mako: {},
+  mfsu: false,
+  // mako: {},
 });
